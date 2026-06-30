@@ -1,0 +1,6 @@
+{
+  "name": "SwipeQuest",
+  "description": "Website game interaktif 'Pilih atau Buang' mobile-first dengan swipe gesture Tinder-style dan analisis kepribadian humoris oleh Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
